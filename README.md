@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=520&lines=MCA+Student+%7C+Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;DSA+with+C%2B%2B;Building+Real-World+Projects;Learning+Every+Day" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=520&lines=MCA+Student+%7C+Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;DSA+with+java;Building+Real-World+Projects;Learning+Every+Day" alt="Typing SVG" />
   </a>
 </p>
 
@@ -60,14 +60,13 @@ I’m a **MCA student** and an aspiring **Full Stack Developer** with a strong i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdayVaidya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UdayVaidya&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://streak-stats.demolab.com?user=UdayVaidya&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayVaidya&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UdayVaidya&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 
 ---
 

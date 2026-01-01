@@ -55,17 +55,10 @@ I’m a **MCA student** and an aspiring **Full Stack Developer** with a strong i
 - 🌐 Building **fully deployed applications** (frontend + backend)
 - 🔐 Authentication, APIs, databases, and clean UI/UX
 
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=UdayVaidya&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=UdayVaidya&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=UdayVaidya&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/UdayVaidya/metrics/main/github-metrics.svg" />
 </p>
 
 ---
